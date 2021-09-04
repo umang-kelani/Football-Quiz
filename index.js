@@ -48,14 +48,6 @@ var highScores = [
     {
         user: "Umang",
         score: 4
-    },
-    {
-        user: "Amit",
-        score: 3
-    },
-    {
-        user: "Vishwajeet",
-        score: 2
     }
 ]
 
